@@ -12,9 +12,9 @@ import java.util.List;
  * Adjar | Copyrights 2018 ZarinPal Crop.
  */
 
-public class SimpleAdapter extends BindingRecyclerAdapter<TestModel> {
+public class SampleAdapter extends BindingRecyclerAdapter<TestModel> {
 
-    public SimpleAdapter(List<TestModel> list) {
+    public SampleAdapter(List<TestModel> list) {
         super(list);
     }
 
