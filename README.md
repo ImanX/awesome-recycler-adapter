@@ -20,7 +20,7 @@ In the following create a new Class and extend it from `BindingRecyclerAdapter` 
 
 Return `xml` resource layout that used `<layout>` indside it, now You can use `onBindView`
 
-###Example
+### Example
 
 ```java
     @Override
