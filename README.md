@@ -1,6 +1,6 @@
 # Awesome RecyclerView Adapter
 A Awesome Recycler Adapter that support DataBinding.
-'BindingRecyclerAdapter' can bind and adapte your data with 2 abstract method.
+`BindingRecyclerAdapter` can bind and adapte your data by 2 abstract method.
 
 ## Getting Started
 Two class that able simple bind and adapte data on RecyclerView.
